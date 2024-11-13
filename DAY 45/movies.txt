@@ -1,0 +1,98 @@
+1) Stand By Me, 1986
+2) Raging Bull, 1980
+3) Amelie, 2001
+4) Titanic, 1997
+5) Good Will Hunting, 1997
+6) Arrival, 2016
+7) Lost In Translation, 2003
+8) The Princess Bride, 1987
+9) The Terminator, 1984
+10) The Prestige, 2006
+11) No Country For Old Men, 2007
+12) Shaun Of The Dead, 2004
+13) The Exorcist, 1973
+14) Predator, 1987
+15) Indiana Jones And The Last Crusade, 1989
+16) LÃ©on, 1994
+17) Rocky, 1976
+18) True Romance, 1993
+19) Some Like It Hot, 1959
+20) The Social Network, 2010
+21) Spirited Away, 2016
+22) Captain America: Civil War, 2003
+23) Oldboy, 1995
+24) Toy Story, 1971
+25) A Clockwork Orange, 1996
+26) Fargo, 2001
+27) Mulholland Dr., 1954
+28) Seven Samurai, 1954
+29) Rear Window, 2007
+30) Hot Fuzz, 1994
+31) The Lion King, 1952
+32) Singin' In The Rain, 1984
+33) Ghostbusters, 2000
+34) Memento, 1983
+35) Return Of The Jedi, 2012
+36) Avengers Assemble, 1997
+37) L.A. Confidential, 2001
+38) Donnie Darko, 2016
+39) La La Land, 1994
+40) Forrest Gump, 1999
+41) American Beauty, 1982
+42) E.T. â The Extra Terrestrial, 2009
+43) Inglourious Basterds, 2014
+44) Whiplash, 1992
+45) Reservoir Dogs, 2006
+46) Pan's Labyrinth, 1958
+47) Vertigo, 1960
+48) Psycho, 1968
+49) Once Upon A Time In The West, 1946
+50) It's A Wonderful Life, 1962
+51) Lawrence Of Arabia, 1996
+52) Trainspotting, 1991
+53) The Silence Of The Lambs, 2014
+54) Interstellar, 1941
+55) Citizen Kane, 2011
+56) Drive, 2000
+57) Gladiator, 1975
+58) One Flew Over The Cuckoo's Nest, 2007
+59) There Will Be Blood, 2004
+60) Eternal Sunshine Of The Spotless Mind, 1957
+61) 12 Angry Men, 1998
+62) Saving Private Ryan, 2015
+63) Mad Max: Fury Road, 1982
+64) The Thing, 2006
+65) The Departed, 1980
+66) The Shining, 2014
+67) Guardians Of The Galaxy, 1993
+68) Schindler's List, 1995
+69) The Usual Suspects, 1976
+70) Taxi Driver, 1995
+71) Seven, 1998
+72) The Big Lebowski, 1942
+73) Casablanca, 1966
+74) The Good, The Bad And The Ugly, 1995
+75) Heat, 1991
+76) Terminator 2: Judgment Day, 1999
+77) The Matrix, 2002
+78) The Lord Of The Rings: The Two Towers, 1979
+79) Apocalypse Now, 1968
+80) 2001: A Space Odyssey, 1988
+81) Die Hard, 1993
+82) Jurassic Park, 2010
+83) Inception, 1999
+84) Fight Club, 2003
+85) The Lord Of The Rings: The Return Of The King, 1986
+86) Aliens, 1979
+87) Alien, 1982
+88) Blade Runner, 1974
+89) The Godfather Part II, 1985
+90) Back To The Future, 2001
+91) The Lord Of The Rings: The Fellowship Of The Ring, 1977
+92) Star Wars, 1975
+93) Jaws, 1981
+94) Raiders Of The Lost Ark, 1990
+95) Goodfellas, 1994
+96) Pulp Fiction, 1994
+97) The Shawshank Redemption, 2008
+98) The Dark Knight, 1972

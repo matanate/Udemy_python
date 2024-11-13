@@ -1,0 +1,5 @@
+Bootstrap_Flask
+Flask
+Flask_WTF
+WTForms
+wtforms[email]
